@@ -2,4 +2,6 @@
 #+author: Воейко Андрей <p8ndn9p8f@mozmail.com>
 Файлы:
 - zachet.pdf -- файл с ответам.
-- zachet.tex -- исходником. Если хотите поиграться, скачайте какой-нибудь редактор LaTeX, например [[https://www.xm1math.net/texmaker/][TeXmaker]] и откройте его там. Еще есть онлайн LaTeX редактор [[https://www.overleaf.com/][Overleaf]].
+- zachet.tex -- исходником. Если хотите поиграться,
+  - скачайте какой-нибудь редактор LaTeX, например [[https://www.xm1math.net/texmaker/][TeXmaker]] и откройте его там.
+  - Еще есть онлайн LaTeX редактор [[https://www.overleaf.com/][Overleaf]]. У них же есть прекрасная [[https://www.overleaf.com/learn][документация]].
